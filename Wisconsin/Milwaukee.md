@@ -1,9 +1,11 @@
 Milwaukee, WI
 =============
 
-###RokkinCat
-* www.rokkincat.com
-* meow@rokkincat.com
+###[RokkinCat](www.rokkincat.com)
 
-* * Rick Allen
-* * @stoodder
+**meow@rokkincat.com**
+
+**Contacts**
+
+* Rick Allen (Programmer)
+	* @stoodder
